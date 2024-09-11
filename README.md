@@ -1,6 +1,6 @@
 # Workout Tracker Site
 
-     My website will help users track their workouts and diets so that they can see their progress, stay accountable to themselves and others, and do so easily from their phone.  They also will have access to stock workout plans that they can modify, as well as instructions on various workouts and recommended diets.  Upon signing in, a user can see their weekly/daily calendar and know exactly what they've planned for that day.  They will see what other people they've friended have accomplished that week as well.  This will be ideal for runners or gym goers to maintain schedules and diets for their physical health.
+ My website will help users track their workouts and diets so that they can see their progress, stay accountable to themselves and others, and do so easily from their phone.  They also will have access to stock workout plans that they can modify, as well as instructions on various workouts and recommended diets.  Upon signing in, a user can see their weekly/daily calendar and know exactly what they've planned for that day.  They will see what other people they've friended have accomplished that week as well.  This will be ideal for runners or gym goers to maintain schedules and diets for their physical health.
 
 # Key Features
 
