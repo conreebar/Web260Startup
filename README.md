@@ -22,3 +22,4 @@ My website will help users track their workouts and diets so that they can see t
 
   # Mockup
   
+![](https://github.com/conreebar/Web260Startup/blob/main/mockup.png)
