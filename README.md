@@ -23,3 +23,135 @@ My website will help users track their workouts and diets so that they can see t
   # Mockup
   
 ![](https://github.com/conreebar/Web260Startup/blob/main/mockup.png)
+
+
+
+# Midterm Notes
+
+HTML and CSS Basics
+Link Element:
+
+The <link> element is used to link external resources like CSS files to the HTML document.
+Div Tag:
+
+The <div> tag is a block-level element used to group content and apply styles or layouts.
+#Title vs .Grid Selector:
+
+The #title selector targets an element with the specific id="title".
+The .grid selector targets all elements with the class grid.
+Padding vs Margin:
+
+Padding: Space between the content and the element's border.
+Margin: Space outside the element's border, between the element and others.
+Flexbox Image Display:
+
+Flexbox layout properties determine how images are aligned, wrapped, or spaced within a container.
+Padding CSS:
+
+Controls the spacing inside an element between its content and its border. Padding values can apply to different sides (top, right, bottom, left).
+CSS Box Model:
+
+Ordering of box layers: Content → Padding → Border → Margin.
+Changing Background Color of Divs:
+
+Use the CSS rule: div { background-color: red; }
+Display an Image with Hyperlink in HTML:
+
+<a href="url"><img src="image.jpg" alt="Image"></a>
+Set Specific Text Color:
+
+CSS Example: span#trouble { color: green; }
+JavaScript Fundamentals
+Arrow Function Syntax:
+
+Provides a concise way to declare functions using () => {}.
+Using Map with an Array:
+
+map creates a new array by transforming each element of the original array according to a function.
+getElementByID and addEventListener:
+
+getElementById() selects an element by its ID, and addEventListener() adds an event listener to handle actions like clicks or inputs.
+JavaScript Object Syntax:
+
+Example: let obj = { key: value };
+Changing Text Color with ID Selector:
+
+Use JavaScript: document.getElementById("byu").style.color = "green";
+JavaScript Promises Output:
+
+Promises represent asynchronous operations. Output depends on whether the promise resolves or rejects.
+DOM, JSON, and JavaScript Objects
+True Statements about the DOM:
+
+The DOM represents the structure of the web page as an object model that can be manipulated with JavaScript.
+Span Element's Default CSS Display:
+
+inline is the default CSS display property of a <span>.
+Declaring the Document Type:
+
+At the beginning of an HTML document: <!DOCTYPE html>
+Valid Syntax for Control Structures:
+
+if, else, for, while, switch all follow specific syntax rules. Example:
+javascript
+Copy code
+if (condition) {
+  // code
+} else {
+  // code
+}
+Adding Properties to JavaScript Objects:
+
+Yes, you can dynamically add properties to an object:
+javascript
+Copy code
+obj.newProp = value;
+Include JavaScript in HTML:
+
+Use the <script> tag.
+Describing JSON:
+
+JSON (JavaScript Object Notation) is a lightweight data format used for data interchange, using key-value pairs.
+Command Line and Networking
+Command Line Basics:
+
+chmod: Changes file permissions.
+pwd: Prints current working directory.
+cd: Changes directory.
+ls: Lists directory contents.
+vim, nano: Text editors.
+mkdir: Creates directories.
+mv, rm: Move or remove files.
+man: Opens manual pages.
+ssh: Starts a secure shell session.
+ps: Lists processes.
+wget: Downloads files from the web.
+sudo: Executes commands with superuser privileges.
+Remote Shell Session:
+
+ssh creates a secure remote shell session.
+Using -la with ls:
+
+Lists all files, including hidden ones, in a long format with detailed information.
+DNS, Protocols, and Web Security
+Domain Structure:
+
+Example: For banana.fruit.bozo.click:
+.click is the top-level domain (TLD).
+bozo is the root domain.
+banana.fruit are subdomains.
+HTTPS and Web Certificates:
+
+A web certificate is necessary for HTTPS to encrypt communication between client and server.
+DNS A Record:
+
+Can point to an IP address or another A record, providing resolution for domain names.
+Ports:
+
+Port 443: HTTPS
+Port 80: HTTP
+Port 22: SSH
+Review Key Concepts
+Ensure students understand how the box model works, the difference between block and inline elements, and how JavaScript can manipulate the DOM.
+Review arrow functions, objects, and promises in JavaScript.
+Practice navigating the command line and understanding networking fundamentals like DNS and ports.
